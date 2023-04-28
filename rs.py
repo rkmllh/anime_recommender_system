@@ -162,4 +162,4 @@ print("score(0, 4975) =", rs_user_to_user(0, "4975"))
 
 #For new items
 print("score(0, item) =", rs_user_to_user(0, "item"))
-print("score(0, 376) =", rs_user_to_user(0, "376"))
+print("score(0, 376)  =", rs_user_to_user(0, "376"))
